@@ -1,14 +1,13 @@
 # Face Vision Sumrize System 
 
-## OverView
+## 🌍 OverView
 This project is the Summmary of all kind of algorithms. The dataset of figure and emotion is grabbed by the spider rebot. We realized image defection \ 
 and recoginzation through all kinds of image defection algorithms, such as CNN(cyclic neural network), SVM(support vector machine), and CV2 and so on. 
 By comparing the difference among these algotithms, We can find many interesting things.
 
-## Content
+## 🛡️ Content
 The following is the struct of the project.
 
-![image](https://github.com/sfdeggb/face-version/assets/95692531/763d327a-0b10-4b99-81e6-28638792a5f9)
 
 > **Explain**:
 > Emotion_recgo: the directory of relaizing the Emotion recogition.
